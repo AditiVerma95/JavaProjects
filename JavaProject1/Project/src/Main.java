@@ -1,3 +1,5 @@
+package Project.src;
+
 import java.util.Scanner;
 
 public class Main {

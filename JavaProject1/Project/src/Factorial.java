@@ -1,3 +1,5 @@
+package Project.src;
+
 public class Factorial {
     public static  void factorialOfGivenNum(int num1){
         int fac = num1;
